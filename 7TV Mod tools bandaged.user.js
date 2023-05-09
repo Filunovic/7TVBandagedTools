@@ -98,5 +98,5 @@ window.addEventListener('load', function() {
 }
       });
     }
-  }, 2000); // delay the execution of the function by 1000 milliseconds (1 second)
+  }, 2000); // delay the execution of the function by 2000 milliseconds (2 seconds)
 });
