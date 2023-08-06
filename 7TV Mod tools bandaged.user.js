@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         7TV Mod tools bandaged
 // @namespace    https://7tv.app/
-// @version      2.0
+// @version      2.0.1
 // @description  Janky version of mod tools.
 // @author       FilunovicU
 // @match        https://7tv.app/users/*
+// @match        https://7tv.app/admin/reports/*
 // @match        https://7tv.app/emotes/*
 // @icon         https://cdn.7tv.app/emote/62f9936414f7d01379c00164/1x.webp
 // @grant        none
