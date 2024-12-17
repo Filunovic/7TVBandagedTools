@@ -97,7 +97,7 @@ if (window.location.href.indexOf("users") > -1) {
     window.addEventListener('load', function() {
         setTimeout(function() {
             // get the div element by its selector
-            const divElement = document.querySelector('div[tabindex="-1"]');
+            const divElement = document.querySelector('span[class="name svelte-10i9esa"]');
             // check if the div element exists
             if (divElement) {
                 // create a new button element
